@@ -6,7 +6,7 @@ Our project is aimed at analyzing two cases –
 
 2)Calculating metrics related to a social networking service: we will try to find user engagement, user growth, weekly retention, weekly engagement and email engagement as on September 2, 2014  
 
-#Insights
+## Insights
 
 User Engagement: we see a massive spike and a sudden dip during end of July and start of august, there might be a advertisement event causing this.
 User growth: Growth rate continues to be high during the week, low on weekends.
